@@ -1,0 +1,84 @@
+h1{
+    font-variant: small-caps;
+    font-size: 200%;
+    color:black;
+    background-color:burlywood;
+    width:35%;
+    text-align:left;
+}
+body{
+    background-color:whitesmoke;
+    margin:0 auto;
+    border:solid;
+    border-width: 1px;
+    padding:20px;
+    margin: 10px ;
+    background-image:url(data:image/jpeg;base64,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)
+}
+
+details{
+    font-size:150%;
+    color:brown;
+    font-size:100%;
+
+}
+
+p{
+    font-size:100%;
+    font-style: normal;
+    color:black;
+
+}
+
+table{
+    
+    background-color:burlywood;
+    border:solid;
+    border-width: 1px;
+    margin-right: 1px;
+    padding: 4px;
+}
+
+h3{
+    width:35%;
+    background-color:burlywood;
+    color:black;
+    font-variant: small-caps;
+    font-size: 30px;
+}
+
+a{
+    text-decoration: none;
+    color:brown;
+    margin:5px;
+    padding:4px;
+}
+a:hover{
+    background-color: grey;
+    color:white;
+}
+
+a:focus{
+    background-color: grey;
+    color: white;
+}
+
+a:active{
+    border:3px solid black;
+}
+
+ol{
+    list-style-type: initial;
+
+}
+
+ul{
+    list-style-type: none;
+}
+
+footer{
+    font-size: 30px;
+    font-variant:small-caps;
+}
+
+
